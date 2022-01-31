@@ -1,0 +1,7 @@
+
+.search-card{
+    flex-direction: row;
+    justify-content: space-around;
+    width: auto;
+}
+

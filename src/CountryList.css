@@ -1,0 +1,10 @@
+.countrylist{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.countrycard{
+    margin-top: 15px;
+}

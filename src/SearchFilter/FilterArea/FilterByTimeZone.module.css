@@ -1,0 +1,24 @@
+.timezone{
+    flex-direction: row;
+    width: 98%;
+}
+
+
+.checkboxitem{
+    /* border: 2px solid red; */
+    min-width: 100px;
+    max-width: 200px;
+}
+
+.timezonediv{
+    /* border: 2px solid navy; */
+    width: 98%;
+}
+.timezones{
+    display: flex;
+    /* border: 5px solid black; */
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
